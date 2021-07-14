@@ -839,6 +839,9 @@ hr {
 }
 
 @media (max-width: 640px) {
+  .benefist_card fieldset {
+    margin-top:10px;
+  }
   .a {
     width: 300px;
     height: 360px;
@@ -858,6 +861,9 @@ hr {
   }
 }
 @media (max-width: 480px) {
+  .about_info{
+    margin-left: 0;
+  }
   .a {
     width: 260px;
     height: 330px;
